@@ -14,7 +14,7 @@ Web application responsável por prover ao usuário uma interface para utilizaç
 - Para subir via docker:
   - Execute o docker em sua máquina
   - Execute `docker compose up` para subir o projeto
-- Para ambos os casos o projeto deve subir na porta 3001
+- Para ambos os casos o projeto deve subir na porta 9000
 
 ## Convenção de commits
 Para mantermos o projeto adequadamente bem organizado a nível de commits, por favor seguir as recomendações de commits propostas no link a seguir: https://www.conventionalcommits.org/pt-br/v1.0.0/#resumo
